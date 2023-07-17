@@ -21,4 +21,9 @@
 
 ### 📊 Stats
 
-![Aman Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanharsh3&show_icons=true&theme=gruvbox)
+![Aman Harsh's GitHub stats]![](https://github-readme-stats.vercel.app/api?username=amanharsh3&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amanharsh3&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanharsh3&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amanharsh3&icon=0&color=0)](https://visitcount.itsvg.in)
